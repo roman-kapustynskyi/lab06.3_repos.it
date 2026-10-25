@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roman\\OneDrive\\PR06.3.it\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80D5EC7D-54C4-BF9F-8C28-D92B3B84C790}|UnitTest06.3 rec\\UnitTest06.3 rec.vcxproj|C:\\Users\\roman\\OneDrive\\PR06.3.it\\UnitTest06.3 rec\\UnitTest06.3 it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80D5EC7D-54C4-BF9F-8C28-D92B3B84C790}|UnitTest06.3 rec\\UnitTest06.3 rec.vcxproj|solutionrelative:UnitTest06.3 rec\\UnitTest06.3 it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E302703-6523-4C27-9375-87744F5F22BD}|PR06.3.it\\PR06.3.it.vcxproj|C:\\Users\\roman\\OneDrive\\PR06.3.it\\PR06.3.it\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E302703-6523-4C27-9375-87744F5F22BD}|PR06.3.it\\PR06.3.it.vcxproj|solutionrelative:PR06.3.it\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest06.3 it.cpp",
+              "DocumentMoniker": "C:\\Users\\roman\\OneDrive\\PR06.3.it\\UnitTest06.3 rec\\UnitTest06.3 it.cpp",
+              "RelativeDocumentMoniker": "UnitTest06.3 rec\\UnitTest06.3 it.cpp",
+              "ToolTip": "C:\\Users\\roman\\OneDrive\\PR06.3.it\\UnitTest06.3 rec\\UnitTest06.3 it.cpp",
+              "RelativeToolTip": "UnitTest06.3 rec\\UnitTest06.3 it.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-25T09:05:43.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\roman\\OneDrive\\PR06.3.it\\PR06.3.it\\FileName.cpp",
+              "RelativeDocumentMoniker": "PR06.3.it\\FileName.cpp",
+              "ToolTip": "C:\\Users\\roman\\OneDrive\\PR06.3.it\\PR06.3.it\\FileName.cpp",
+              "RelativeToolTip": "PR06.3.it\\FileName.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwBYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-24T21:41:13.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
